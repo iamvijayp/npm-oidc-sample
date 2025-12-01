@@ -1,6 +1,6 @@
 {
-  "name": "npm-oidc-sample-package",
-  "version": "1.0.1",
+  "name": "npm-oidc-sample-package-vijay",
+  "version": "1.0.5",
   "description": "A sample package for testing npm publish with OIDC",
   "main": "index.js",
   "scripts": {
